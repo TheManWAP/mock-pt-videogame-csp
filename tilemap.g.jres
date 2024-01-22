@@ -1,4 +1,44 @@
 {
+    "transparency16": {
+        "data": "hwQQABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+        "mimeType": "image/x-mkcd-f4",
+        "tilemapTile": true
+    },
+    "level1": {
+        "id": "level1",
+        "mimeType": "application/mkcd-tilemap",
+        "data": "MTAxMDAwMTAwMDAzMDIwMjAyMDIwMjAyMDIwMjAyMDIwMjAyMDIwYzA5MDcwMTBhMGEwMTAxMGEwMTAxMGEwMTAxMDEwYzAxMDgwNzBkMDEwMTAxMDEwMTAxMDEwMTBhMGEwMTAxMDEwODA3MDEwYzAxMDEwMTBlMGEwMTAxMDEwMTAxMDEwMTA4MDcwMTAxMGEwYTBhMGUwMTAxMDEwMTBkMDEwMTAxMDEwNzAxMGExNzE2MTYxODAxMDEwMTAxMDEwMTAxMDEwMTA3MDEwZTEzMGYxMjE1MDEwMTAxMDEwMTAxMDEwMTAxMDcwMTBlMTMxMDExMTUwMTAxMDEwMTAxMDEwMTAxMDEwNzAxMGExYTE0MTQxOTAxMDEwMTAxMDEwMTAxMDEwODA3MDEwMTBhMGEwYTBlMDEwMTAxMDEwMTAxMDEwMTA4MDcwMTAxMDEwMTAxMGUwMTAxMDEwMTAxMDEwMTAxMDgwNzAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwMTAxMDEwODA3MGEwYTBhMDEwMTAxMGMwMTAxMDEwMTAxMGQwMTA4MDcwMTAxMDEwMTBiMDEwMTAxMDEwMTAxMDEwMTAxMDgwNzBkMDEwYjBiMDEwMTBhMGEwMTBiMGIwYjAxMDEwODA0MDYwNjA2MDYwNjAxMDYwNjA2MDYwNjA2MDYwNjA1MDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMDAwMA==",
+        "tileset": [
+            "myTiles.transparency16",
+            "sprites.builtin.forestTiles10",
+            "sprites.builtin.forestTiles6",
+            "sprites.builtin.forestTiles5",
+            "sprites.builtin.forestTiles13",
+            "sprites.builtin.forestTiles15",
+            "sprites.builtin.forestTiles14",
+            "sprites.builtin.forestTiles9",
+            "sprites.builtin.forestTiles11",
+            "sprites.builtin.forestTiles7",
+            "sprites.builtin.forestTiles12",
+            "sprites.builtin.forestTiles2",
+            "sprites.builtin.forestTiles19",
+            "sprites.castle.tileDarkGrass2",
+            "sprites.dungeon.darkGroundCenter",
+            "sprites.dungeon.greenInnerNorthWest",
+            "sprites.dungeon.greenInnerSouthWest",
+            "sprites.dungeon.greenInnerSouthEast",
+            "sprites.dungeon.greenInnerNorthEast",
+            "sprites.dungeon.greenOuterWest1",
+            "sprites.dungeon.greenOuterSouth0",
+            "sprites.dungeon.greenOuterEast0",
+            "sprites.dungeon.greenOuterNorth0",
+            "sprites.dungeon.greenOuterNorthWest",
+            "sprites.dungeon.greenOuterNorthEast",
+            "sprites.dungeon.greenOuterSouthWest",
+            "sprites.dungeon.greenOuterSouthEast"
+        ],
+        "displayName": "Spawn"
+    },
     "*": {
         "mimeType": "image/x-mkcd-f4",
         "dataEncoding": "base64",
